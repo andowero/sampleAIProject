@@ -1,5 +1,3 @@
-AGENTS.md
-
 # Project goals
 
 # Project overview
